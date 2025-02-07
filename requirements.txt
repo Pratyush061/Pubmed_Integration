@@ -1,0 +1,6 @@
+streamlit
+biopython
+beautifulsoup4
+requests
+google-generativeai
+metapub
